@@ -31,5 +31,9 @@
     "path-parser": "^3.0.1",
     "sendgrid": "^5.2.3",
     "stripe": "^5.5.0"
+  },
+  "devDependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "test-table": "^3.0.0"
   }
 }
