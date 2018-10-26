@@ -14,3 +14,6 @@ Sendgrid Helpers
 
 Mailtester
 `npm i mail-tester`
+
+Mailtime
+`npm i mail-time`
