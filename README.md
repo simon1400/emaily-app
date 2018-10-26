@@ -8,3 +8,6 @@ https://www.npmjs.com/package/@sendgrid/mail
 
 Sendgrid Client
 `npm i @sendgrid/client`
+
+Sendgrid Helpers
+`npm i @sendgrid/helpers`
