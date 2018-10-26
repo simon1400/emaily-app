@@ -33,6 +33,7 @@
     "stripe": "^5.5.0"
   },
   "devDependencies": {
+    "@sendgrid/client": "^6.3.0",
     "@sendgrid/mail": "^6.3.1",
     "test-table": "^3.0.0"
   }
