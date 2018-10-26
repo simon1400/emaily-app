@@ -11,3 +11,6 @@ Sendgrid Client
 
 Sendgrid Helpers
 `npm i @sendgrid/helpers`
+
+Mailtester
+`npm i mail-tester`

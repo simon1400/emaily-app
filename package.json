@@ -36,6 +36,7 @@
     "@sendgrid/client": "^6.3.0",
     "@sendgrid/helpers": "^6.3.0",
     "@sendgrid/mail": "^6.3.1",
+    "mail-tester": "^1.0.0",
     "test-table": "^3.0.0"
   }
 }
